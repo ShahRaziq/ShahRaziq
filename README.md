@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ShahRaziq
+- 👋 Hi, I’m Shah Raziq
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning on web and app development  
 - 💞️ I’m looking to collaborate on my group & final year project
-- 📫 How to reach me @sharazeeq on insta...
+- 📫 How to reach me, shahraziq.dev@gmail.com 
 
 <!---
 ShahRaziq/ShahRaziq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
