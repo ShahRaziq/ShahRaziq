@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shah Raziq
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning on web and app development  
-- 💞️ I’m looking to collaborate on my group & final year project
+- 💞️ I've finished my final year project (Jorania)
 - 📫 How to reach me, shahraziq.dev@gmail.com 
 
 <!---
